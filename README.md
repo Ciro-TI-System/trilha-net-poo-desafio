@@ -3,7 +3,7 @@
 Desafio desenvolvido durante o curso `Orientação a Objetos com C#` durante o 'Bootcamp Decola Tech Avanade' da DIO (Digital Innovation One).
 
 <p align="center">
-  <img src=".github/Decola Tech.JPG" width="90%">
+  <img src=".github/Decola Tech.JPG" width="60%">
 </p>
 
 <br>
